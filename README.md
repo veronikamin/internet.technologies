@@ -59,7 +59,13 @@
   1. Предоставление ранее выполненных работ по теме "Настройка локальной сети передачи данных".
   2. Загрузка в Git-репозиторий отчета о проделанной работе в Cisco Packet Tracer.
   
+[Ссылка на репозиторий проекта](https://github.com/SarmiAnsim/ITLabs)
+
+[Ссылка на страницу проекта](https://sarmiansim.github.io/ITLabs/Load/%D0%94%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0/index.html)
+  
 Работа над проектом ведется в команде "НАНОграммчики".
   
 ## ✅ Экзаменационный билет №5
 Ответ на экзаменационный билет доступен по ссылке: [билет №5](https://github.com/stankin/inet-2022/wiki/exam05)
+
+[Ссылка на diff](https://github.com/stankin/inet-2022/wiki/exam05/_compare/db53bf94649b2a8cc160a7bac5242e9aa23e8c2c)
